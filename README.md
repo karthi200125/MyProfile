@@ -1,16 +1,38 @@
-### Hi there 👋
+![logo](https://c0.wallpaperflare.com/preview/1007/355/640/industry-industry-4-web-network.jpg)
 
-<!--
-**karthi200125/karthi200125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Karthikeyan</h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
-Here are some ideas to get you started:
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthi200125&label=Profile%20views&color=0e75b6&style=flat" alt="karthi200125" /> </p>
+
+- 🔭 I’m currently working on **Threads**
+
+- 🌱 I’m currently learning **Next.js**
+
+- 👯 I’m Developed and Deployed on [Hotel Booking Website](https://64e856d0836cb343a3235c1e--chic-elf-655afb.netlify.app/)
+
+- 👨‍💻 All of my projects are available at [https://64e98f1404ddee7f7ebdcf77--aesthetic-ganache-5fa15a.netlify.app/](https://64e98f1404ddee7f7ebdcf77--aesthetic-ganache-5fa15a.netlify.app/)
+
+- 💬 Ask me about **React , Java**
+
+- 📫 How to reach me **skarthikeyan25052001@gmail.com**
+
+- ⚡ Fun fact **I've participated in coding competitions on three continents. Next stop: Antarctica? ❄️**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/karthick25" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/511/605/png-transparent-in-logo-linkedin-diduco-ab-icon-linkedin-blue-angle-text-thumbnail.png" alt="karthick25" height="30" width="40" /></a>
+<a href="https://instagram.com/duet_karthick" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/722/1011/png-transparent-logo-icon-instagram-logo-instagram-logo-purple-violet-text-thumbnail.png" alt="duet_karthick" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/karthiccckkk" target="blank"><img align="center" src="data:image/png;base64,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" alt="karthiccckkk" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://t4.ftcdn.net/jpg/05/83/61/63/240_F_583616375_80qhPkwmULzhpMzZaXgw9jYwucbev0HP.jpg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/4/808/png-transparent-css3-css3-logo-logo-language-programming-language-css-3d-icon-thumbnail.png" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo-thumbnail.png" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/134/546/png-transparent-git-version-control-system-vcs-git-logo-github-repositories-3d-icon-thumbnail.png" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/290/579/png-transparent-html-html-logo-html-5-html-five-logo-html-5-logo-programming-langugae-3d-icon-thumbnail.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo-thumbnail.png" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/160/708/png-transparent-javascript-logo-javascript-logo-language-algorithm-app-3d-icon-thumbnail.png" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/152/247/png-transparent-jest-hd-logo-thumbnail.png" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text-thumbnail.png" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/669/447/png-transparent-redux-react-javascript-freecodecamp-npm-others-miscellaneous-purple-violet-thumbnail.png" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/437/300/png-transparent-sass-npm-cascading-style-sheets-node-js-sass-purple-violet-text-thumbnail.png" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo-thumbnail.png" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/616/528/png-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text-thumbnail.png" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/515/393/png-transparent-webpack-npm-postcss-logo-javascript-others-blue-angle-rectangle-thumbnail.png" alt="webpack" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthi200125&show_icons=true&locale=en&layout=compact" alt="karthi200125" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthi200125&show_icons=true&locale=en" alt="karthi200125" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthi200125&" alt="karthi200125" /></p>
