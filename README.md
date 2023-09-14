@@ -1,7 +1,10 @@
 
 <img width="1000" height="350" src="https://c4.wallpaperflare.com/wallpaper/447/85/162/computer-lights-glow-blur-wallpaper-preview.jpg">
 <h1 align="center">Hi 👋, I'm Karthikeyan</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h4 align ="center">
+    I have graduated with a Bachelor's degree in Electrical and Electronics Engineering and am currently actively seeking opportunities to commence my career as a Software Developer. 🎓     I specialize in Full Stack Development 💻 and I am dedicated to honing my skills in data structures and algorithms. I am a passionate learner with a strong willingness to adapt and 
+    work with emerging technologies 💡. Beyond programming, I have a keen interest in playing the guitar 🎸 and indulging in quality cinema. 🎥
+</h4>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
