@@ -1,141 +1,127 @@
-<!-- ================= HERO ================= -->
-<h1 align="center">🚀 Karthikeyan</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+%2B+AI+Engineer;Building+Scalable+SaaS+Products;Next.js+%7C+TypeScript+%7C+Prisma;Turning+Ideas+into+Production+Systems" />
-</p>
+```
+██╗  ██╗ █████╗ ██████╗ ████████╗██╗  ██╗██╗
+██║ ██╔╝██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██║
+█████╔╝ ███████║██████╔╝   ██║   ███████║██║
+██╔═██╗ ██╔══██║██╔══██╗   ██║   ██╔══██║██║
+██║  ██╗██║  ██║██║  ██║   ██║   ██║  ██║██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karthi200125&label=Profile%20views&color=blueviolet&style=for-the-badge" />
-</p>
+### Full-Stack Engineer · Next.js · TypeScript · PostgreSQL
+*Building production systems, not just tutorials.*
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=karthi200125&color=0d1117&style=flat-square&label=profile+views)](https://github.com/karthi200125)
+[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_problems-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/karthiccckkk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/karthick25)
 
-<!-- ================= GLASS ABOUT ================= -->
-<h2 align="center">🧠 About Me</h2>
-
-<p align="center">
-💻 Full Stack Developer with <b>2+ years experience</b> building real-world apps<br/>
-🚀 Specialized in <b>Next.js, TypeScript, Prisma & scalable architectures</b><br/>
-🤖 Moving towards <b>AI-powered SaaS development</b><br/>
-⚡ Obsessed with <b>performance, UX & clean code</b>
-</p>
+</div>
 
 ---
 
-<!-- ================= TECH ================= -->
-<h2 align="center">⚙️ Tech Stack</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,postgres,mongodb,mysql,prisma,firebase,docker,git" />
-</p>
-
----
-
-<!-- ================= PROJECTS ================= -->
-<h2 align="center">🚀 Featured Projects</h2>
-
----
-
-### 💼 Job Portal & Recruitment Platform
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder-jobportal.gif" width="800"/>
-</p>
-
-- ⚡ Real-time chat → **25% faster hiring**
-- 🔍 Advanced search → **40% better discovery**
-- 💳 Stripe SaaS monetization → **30% more engagement**
-- 🧠 Multi-role system (Candidate / Recruiter / Company)
-
-**Stack:** Next.js • TypeScript • PostgreSQL • Prisma • Stripe • Firebase
-
----
-
-### 📊 Real-Time Task Organizer (Trello Clone)
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder-trello.gif" width="800"/>
-</p>
-
-- 🧩 Drag & drop system
-- ⚡ Real-time UI updates
-- 🏢 SaaS organization model
-- 📈 +40% user engagement
-
-**Stack:** Next.js • MongoDB • Prisma • Clerk • Tailwind
-
----
-
-### 🛒 E-Commerce + Admin Dashboard
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder-ecommerce.gif" width="800"/>
-</p>
-
-- 🔐 Auth system (NextAuth)
-- ⚡ 40% performance boost
-- 💳 Stripe checkout → +25% success rate
-- 📊 Admin dashboard system
-
-**Stack:** Next.js • MongoDB • Prisma • Stripe • Firebase
-
----
-
-<!-- ================= AI SECTION ================= -->
-<h2 align="center">🤖 AI Engineering Direction</h2>
-
-<p align="center">
-🚀 Integrating AI into production apps<br/>
-🧠 Exploring LLM-powered features (search, automation, assistants)<br/>
-⚡ Building AI-first SaaS products
-</p>
-
----
-
-<!-- ================= STATS ================= -->
-<h2 align="center">📊 GitHub Intelligence</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthi200125&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthi200125&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthi200125&theme=tokyo-night" />
-</p>
-
----
-
-<!-- ================= ACHIEVEMENTS ================= -->
-<h2 align="center">🏆 Achievements</h2>
-
-<p align="center">
-🧠 200+ LeetCode problems solved<br/>
-🚀 Built multiple production-ready SaaS apps<br/>
-⚡ Strong real-world debugging & performance optimization
-</p>
-
----
-
-<!-- ================= CONTACT ================= -->
-<h2 align="center">🌍 Connect</h2>
-
-<p align="center">
-<a href="https://linkedin.com/in/karthick25"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:skarthikeyan25052001@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
-<a href="https://www.leetcode.com/karthiccckkk"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/></a>
-</p>
-
----
-
-<!-- ================= PHILOSOPHY ================= -->
-<h2 align="center">⚡ Developer Philosophy</h2>
+## `whoami`
 
 ```ts
 const karthikeyan = {
-  build: "real-world scalable products",
-  code: "clean, performant, maintainable",
-  mindset: "product > tutorial",
-  future: "AI + SaaS systems"
+  role:        "Full-Stack Developer",
+  experience:  "2 years",
+  location:    "Bengaluru, India",
+  focus:       ["scalable systems", "clean architecture", "real-time apps"],
+  currentlyOn: "DSA + System Design grind",
+  leetcode:    "200+ problems solved",
+  goal:        "Ship products that actually scale",
 };
+```
+
+---
+
+## Stack
+
+**Core**
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+**Data**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Infra & Tools**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+---
+
+## Shipped
+
+### [Job Portal & Recruitment Platform](https://github.com/karthi200125) · `Oct 2024 – Mar 2025`
+> Multi-role SaaS — candidates, recruiters, admins. Built for real traffic.
+
+- Real-time chat between candidates & recruiters → **25% faster hiring flow**
+- Advanced search with live suggestions → **40% better job discovery**
+- Stripe subscription tiers (premium listings, company branding) → **30% employer engagement lift**
+
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Stripe` `Firebase` `React Query` `Redux` `Shadcn`
+
+---
+
+### [Real-Time Task Organizer](https://github.com/karthi200125) · `Jun – Jul 2024`
+> Trello-inspired. Boards, lists, cards — with live drag-and-drop.
+
+- Real-time drag-and-drop → **40% increase in user engagement**
+- Clerk auth integration → **20% improvement in retention**
+- Collaborative boards with role-based visibility
+
+`Next.js` `TypeScript` `MongoDB` `Prisma` `Stripe` `Clerk`
+
+---
+
+### [E-Commerce + Admin Dashboard](https://github.com/karthi200125) · `May – Jun 2024`
+> Full storefront with a separate admin control plane.
+
+- NextAuth with email verification + password reset
+- Stripe checkout integration → **25% better transaction completion**
+- Page load optimized → **40% faster, 20% boost in performance score**
+
+`Next.js` `TypeScript` `MongoDB` `Firebase` `Stripe` `React Query`
+
+---
+
+## Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=karthi200125&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthi200125&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com?user=karthi200125&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+## Activity
+
+[![Karthikeyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karthi200125&theme=github-compact&hide_border=true&area=true)](https://github.com/karthi200125)
+
+---
+
+<div align="center">
+
+**Let's connect**
+
+[`📧 Email`](mailto:skarthikeyan25052001@gmail.com) · [`💼 LinkedIn`](https://linkedin.com/in/karthick25) · [`🧩 LeetCode`](https://leetcode.com/karthiccckkk) · [`🌐 Portfolio`](https://github.com/karthi200125)
+
+*Open to full-time roles & freelance projects.*
+
+</div>
